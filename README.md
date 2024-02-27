@@ -1,0 +1,2 @@
+# VTEX-WPG
+VTEXT WPG plug in
