@@ -1,2 +1,2 @@
-# VTEX-WPG
-VTEXT WPG plug in
+# WORLDPAY-VTEX-CG
+VTEXT  plug in
